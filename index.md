@@ -1,8 +1,11 @@
-##  Nancy Victor David
+##  Hi There
 
+### I am Nancy Victor, you can call me Navish.
 
-### ME
-![Image](https://pbs.twimg.com/profile_images/848791464524034048/UjWdPFyX_400x400.jpg)
+This is what I might have got myself to do in the course of life
 
-Currently working on Twaa Mtaro Dashboard to provide the infographics behind http://twaamtaro.org/
+Worked on Twaa Mtaro Dashboard to provide the infographics behind http://twaamtaro.org/
 
+Currently working on EMIS
+- [EMIS Project Website](https://navish.github.io/emis-website/)
+- Designing graphics (icons and illustrations) on board EMIS
